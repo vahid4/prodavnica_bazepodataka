@@ -1,0 +1,16 @@
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.Form1.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.frm_Artikli.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.frm_PP.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.frm_Radnici.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.Izlaz_Kalkulacije.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.Kartica_Artikla.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.OBRACUN_ZARADE.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.Troskovi.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.Ulaz_Kalkulacija.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.Zarade_Radnika.resources
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.csproj.GenerateResource.cache
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Projekat_Prodavnica_gimnazija\Projekat_Prodavnica\obj\Debug\net6.0-windows\Projekat_Prodavnica.csproj.CoreCompileInputs.cache

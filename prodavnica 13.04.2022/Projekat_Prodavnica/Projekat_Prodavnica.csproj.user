@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="C:\Users\PC\Desktop\OBRACUN_ZARADe_baze podataka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Artikli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_PP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Radnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Izlaz_Kalkulacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kartica_Artikla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OBRACUN_ZARADE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Troskovi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ulaz_Kalkulacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Zarade_Radnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
